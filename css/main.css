@@ -22,13 +22,26 @@ html {
 
 body {
   margin: 0;
-  padding: 2rem;
-  text-align: justify;
 }
 
 img {
   display: block;
-  width: 75%;
+  width: 100%;
+}
+
+.title {
+    padding-left: 2rem;
+}
+
+.name {
+  color: grey;
+  padding-left: 2rem;
+  margin-bottom: -1rem;
+  text-transform: uppercase;
+}
+
+.name2 {
+  padding-left: 2rem;
 }
 
 .dino {
@@ -37,4 +50,10 @@ img {
 
 .caption {
   color: white;
+  margin-top: -3rem;
+}
+
+.table {
+  display: inline-block;
+  }
 }
