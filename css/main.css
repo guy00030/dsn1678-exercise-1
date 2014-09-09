@@ -22,10 +22,19 @@ html {
 
 body {
   margin: 0;
-  padding: 0;
+  padding: 2rem;
+  text-align: justify;
 }
 
 img {
   display: block;
-  width: 100%;
+  width: 75%;
+}
+
+.dino {
+  text-align: center;
+}
+
+.caption {
+  color: white;
 }
